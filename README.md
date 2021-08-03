@@ -5,8 +5,12 @@ Together with the notebook the pdf for the report can also be found here.
 # Requirements
 `nltk` 
  - run `pip install nltk`
+
+
 `scikit-learn`
  - run `pip install scikit-learn`
+
+
 `Text-Blob`
  - run `pip install -U textblob`
 
