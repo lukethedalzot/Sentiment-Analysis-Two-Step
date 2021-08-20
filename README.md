@@ -14,6 +14,6 @@ Together with the notebook the pdf for the report can also be found here.
 `Text-Blob`
  - run `pip install -U textblob`
 
-The dataset used was directly downloaded from the `nltk` library, but it can also be found from https://www.cs.cornell.edu/people/pabo/movie-review-data/
+The dataset used was directly downloaded from the `nltk` library, but it can also be found from https://www.cs.cornell.edu/people/pabo/movie-review-data/, while the dataset used for the objectivity detection model can be found in this repository. 
 
 Luca Dal Zotto (MAT. 223714)
